@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "可能性",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:17:00.638299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "可能性",
+      "artist": "Argonavis",
+      "has_synced": true,
+      "path": "select/01_可能性_Argonavis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "可能性",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/02_可能性_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "可能性",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/03_可能性_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "可能性 - prod.Masayoshi Iimori",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/04_可能性_-_prod.Masayoshi_Iimori_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "可能性",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_可能性_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "可能性 (prod.Masayoshi Iimori)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/06_可能性_(prod.Masayoshi_Iimori)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "2.灰の森 可能性(BGMなし)",
+      "artist": "チームランドセル",
+      "has_synced": true,
+      "path": "select/07_2.灰の森_可能性(BGMなし)_チームランドセル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "可能性",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_可能性_サンボマスター.txt"
+    }
+  ]
+}
